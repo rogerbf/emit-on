@@ -2,6 +2,8 @@
 
 When all you need is to emit and listen to events.
 
+## usage
+
 ```javascript
 import eventEmitter from 'emit-on'
 
